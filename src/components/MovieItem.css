@@ -1,0 +1,23 @@
+.movie-item-container {
+    margin-top: 10px;
+    padding: 10px;
+    min-width: 20vh;
+    display: -webkit-box;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.movie-item-banner {
+    width: 30%;
+}
+
+.movie-item-info {
+    width: 70%;
+}
+
+.movie-item-image {
+    max-width: 100%;
+    height: auto;
+}
